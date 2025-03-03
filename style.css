@@ -1,0 +1,49 @@
+#bot{
+    background-color:white;
+    text-align: center;
+    margin-left: 450px;
+    margin-right: 450px; 
+    margin-bottom: 10px;
+    padding-right: 50px; 
+    padding-left: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;  
+    border-radius: 25px;
+}
+
+ #submit{border-radius: 8px;
+    border-style: none;
+    background-color: rgb(240, 137, 41);
+    padding: 7px;
+    color: aliceblue; 
+    cursor: pointer;
+}
+.dot{font-family: Verdana, Geneva, Tahoma, sans-serif;}
+input{border-style: none;}
+body{background-color: white;}
+
+@media screen and (max-width:700px)
+{
+    
+    
+    #bot {
+        width: fit-content;
+        margin: auto
+    }
+}
+     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
