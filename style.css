@@ -28,9 +28,10 @@ body{background-color: white;}
     
     #bot {
         width: fit-content;
-        margin: auto
+        margin: auto;
     }
-a{text-decoration: none;}
+a {text-decoration: none;
+ color: inherit;}
 
 
 
