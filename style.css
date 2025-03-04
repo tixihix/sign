@@ -33,6 +33,12 @@ body{background-color: white;}
 }
 a{color: inherit;
  text-decoration: none;}
+button{border-radius: 8px;
+    border-style: none;
+    background-color: rgb(240, 137, 41);
+    padding: 7px;
+    color: aliceblue; 
+    cursor: pointer;}
 
 
 
